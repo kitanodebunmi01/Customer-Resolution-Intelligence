@@ -1,0 +1,4 @@
+Product,Issue,Complaints,Timely_Responses,Untimely_Responses,Monetary_Relief,Non_Monetary_Relief,Complaint Share %,Timely Response Rate %,Relief Rate %,Priority Tier
+Credit card,Problem when making payments,4596,4583,13,802,413,7.59,99.72,26.44,High
+"Money transfer, virtual currency, or money service",Other service problem,2064,2024,40,64,34,3.41,98.06,4.75,Monitor
+"Money transfer, virtual currency, or money service",Other transaction problem,53893,53732,161,471,162,89.0,99.7,1.17,Critical
